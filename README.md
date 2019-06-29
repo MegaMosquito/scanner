@@ -8,7 +8,7 @@
   apt install -y make
 ```
 
-* Run `make` (will build and run continer with output to the terminal)
+* Run `make` (will build and run container with output to the terminal)
 
 ```
   make
